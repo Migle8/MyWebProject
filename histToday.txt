@@ -1,0 +1,91 @@
+    1  git init
+    2  git config user.name Migle8
+    3  git config user.email miglekpc3@gmail.com
+    4  git  config --list
+    5  touch text.txt
+    6  git status
+    7  git add .
+    8  git commit -m "Try to push from local to upstream"
+    9  git remote add origin https://github.com/Migle8/animated-invention.git
+   10  git remote -v
+   11  git branch -M main
+   12  git push -u origin main
+   13  git push -u origin main
+   14  touch index.html
+   15  git status
+   16  node index.html 
+   17  nano index.html 
+   18  add index.html 
+   19  git add index.html 
+   20  git status
+   21  git commit -m "Basic HTML file"
+   22  git commit -m "Add initial HTML file"
+   23  git push commit -m "Add initial HTML file"
+   24  git status
+   25  git log
+   26  nano index.html 
+   27  git status
+   28  git add index.html index.html 
+   29  git commit -m "Modified HTML file"
+   30  git status
+   31  git log
+   32  git checkout [9b8715541dd14e3b3e27fa93373566c90e2bf438]
+   33  git log
+   34  git checkout [9b8715541dd14e3b3e27fa93373566c90e2bf438]
+   35  git checkout 9b8715541dd14e3b3e27fa93373566c90e2bf438
+   36  ls
+   37  git status
+   38  git log --oneline
+   39  git branch
+   40  git checkout master
+   41  git checkout master
+   42  git log
+   43  git checkout main
+   44  git status
+   45  git log
+   46  git remote add origin https://github.com/Migle8/animated-invention.git
+   47  git remote https://github.com/Migle8/animated-invention.git
+   48  igt remote -v
+   49  git remote -v
+   50  git push -u origin main
+   51  history > histToday.txt && git add . && git commit -m "prisidekit ka siandien gero nuveiket" && git push -u origin main
+   52  git push -u origin main
+   53  git init
+   54  git remote add origin https://github.com/Migle8/MyWebProject.git
+   55  remote -v
+   56  git remote -v
+   57  touch index.html
+   58  nano index.html 
+   59  git add index.html 
+   60  git commit -m "Initial commit"
+   61  git config user.name Migle8
+   62  git config user.email miglekpc3@gmail.com
+   63  git config --list
+   64  git commit -m "Initial commit"
+   65  git status
+   66  git push -u origin master
+   67  nano index.html 
+   68  git status
+   69  git add index.html 
+   70  git commin -m "Modified HTML"
+   71  git commit -m "Modified HTML"
+   72  git push -u origin master
+   73  git pull
+   74  git pull -v
+   75  git pull --verbose
+   76  git pull index.html
+   77  nano index.html 
+   78  nano index.html master
+   79  git pull index.html master
+   80  git pull master
+   81  git pull MyWebProject
+   82  git pull  https://github.com/Migle8/MyWebProject.git
+   83  git push -u origin main
+   84  git checkout main
+   85  git `remote add origin  https://github.com/Migle8/MyWebProject.git
+   86  git remote add origin  https://github.com/Migle8/MyWebProject.git
+   87  git remote -v
+   88  git push -u origin main
+   89  git push -u origin master
+   90  git log --oneline
+   91  history > histToday.txt && git add . && git commit -m "prisidekit ka siandien gero nuveiket" && git push -u origin main
